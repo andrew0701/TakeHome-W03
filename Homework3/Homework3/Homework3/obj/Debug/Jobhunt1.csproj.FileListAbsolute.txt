@@ -1,0 +1,11 @@
+C:\Users\Lolz\source\repos\Jobhunt1\Jobhunt1\bin\Debug\Jobhunt1.exe.config
+C:\Users\Lolz\source\repos\Jobhunt1\Jobhunt1\bin\Debug\Jobhunt1.exe
+C:\Users\Lolz\source\repos\Jobhunt1\Jobhunt1\bin\Debug\Jobhunt1.pdb
+C:\Users\Lolz\source\repos\Jobhunt1\Jobhunt1\obj\Debug\Jobhunt1.csproj.AssemblyReference.cache
+C:\Users\Lolz\source\repos\Jobhunt1\Jobhunt1\obj\Debug\Jobhunt1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lolz\source\repos\Jobhunt1\Jobhunt1\obj\Debug\Jobhunt1.Form1.resources
+C:\Users\Lolz\source\repos\Jobhunt1\Jobhunt1\obj\Debug\Jobhunt1.Properties.Resources.resources
+C:\Users\Lolz\source\repos\Jobhunt1\Jobhunt1\obj\Debug\Jobhunt1.csproj.GenerateResource.cache
+C:\Users\Lolz\source\repos\Jobhunt1\Jobhunt1\obj\Debug\Jobhunt1.csproj.CoreCompileInputs.cache
+C:\Users\Lolz\source\repos\Jobhunt1\Jobhunt1\obj\Debug\Jobhunt1.exe
+C:\Users\Lolz\source\repos\Jobhunt1\Jobhunt1\obj\Debug\Jobhunt1.pdb

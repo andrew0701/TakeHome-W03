@@ -1,0 +1,10 @@
+C:\Users\richo\Downloads\Homework3\Homework3\Homework3\obj\Debug\Homework3.csproj.AssemblyReference.cache
+C:\Users\richo\Downloads\Homework3\Homework3\Homework3\obj\Debug\Homework3.Form1.resources
+C:\Users\richo\Downloads\Homework3\Homework3\Homework3\obj\Debug\Jobhunt1.Properties.Resources.resources
+C:\Users\richo\Downloads\Homework3\Homework3\Homework3\obj\Debug\Homework3.csproj.GenerateResource.cache
+C:\Users\richo\Downloads\Homework3\Homework3\Homework3\obj\Debug\Homework3.csproj.CoreCompileInputs.cache
+C:\Users\richo\Downloads\Homework3\Homework3\Homework3\obj\Debug\Jobhunt1.exe
+C:\Users\richo\Downloads\Homework3\Homework3\Homework3\obj\Debug\Jobhunt1.pdb
+C:\Users\richo\Downloads\Homework3\Homework3\Homework3\bin\Debug\Jobhunt1.exe.config
+C:\Users\richo\Downloads\Homework3\Homework3\Homework3\bin\Debug\Jobhunt1.exe
+C:\Users\richo\Downloads\Homework3\Homework3\Homework3\bin\Debug\Jobhunt1.pdb
